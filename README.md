@@ -8,7 +8,6 @@ Play against the computer and test your luck and strategy!
 ## 🚀 Features
 
 - Classic Rock–Paper–Scissors gameplay
-- Clean and responsive UI
 - Random computer moves
 - Instant result display (Win / Lose / Draw)
 - Score tracking
